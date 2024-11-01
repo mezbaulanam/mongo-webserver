@@ -21,7 +21,7 @@ The MongoDB Website Builder API is a Node.js-based server that allows you to cre
 The project has the following structure:
 
 ```
-/home/mezba/mongo-webserver
+./mongo-webserver
 ├── index.js
 ├── .env
 ├── package.json
