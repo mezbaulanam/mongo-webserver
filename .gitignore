@@ -32,7 +32,7 @@ logs/
 # Testing
 coverage/
 .nyc_output/
-
+smsapp.js
 # Temporary files
 tmp/
 temp/
